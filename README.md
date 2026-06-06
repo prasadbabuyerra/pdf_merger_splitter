@@ -25,5 +25,5 @@ python main.py
 
 ## Author
 
-- Killamsetti Harsha Vardhan
-- INTERN ID : CITS2052
+- Yerra Hema
+- INTERN ID : CITS2377
